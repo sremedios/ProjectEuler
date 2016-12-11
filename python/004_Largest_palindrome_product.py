@@ -1,7 +1,3 @@
-# check palindrom works ezpz
-# need to fix largestPalin to calculate products
-# probably need O(n^2) alg to sweep through combinations of 999 998, 999 997, etc, 998, 998, 998, 997, etc
-
 def checkPalindrome(n):
     nStr = str(n)
 
